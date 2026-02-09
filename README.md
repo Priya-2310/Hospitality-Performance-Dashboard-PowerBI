@@ -20,11 +20,12 @@ Built as part of the Codebasics Resume Challenge.
 - Data Visualization & Storytelling
 
 ## 🔗 Live Report
-Power BI Service Link: **
-
+Power BI Service Link: 
+https://app.powerbi.com/view?r=eyJrIjoiYmVmMmRjOTgtZWRlNy00MWI4LWI5OTAtZTA5MDY1YTZhODU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 📸 Dashboard Preview
-*(Upload screenshots in the Screenshots folder and embed them here if you want)*
+![overall performance trends hp1](https://github.com/user-attachments/assets/34f9460f-491b-4f94-a34a-3fbda2a5ad95)
+![operational hp1](https://github.com/user-attachments/assets/cd4cc13a-fb36-40e5-ae00-d1a4cf304065)
 
 ## 👩‍💻 Author
 Priyanka Lokkoju
